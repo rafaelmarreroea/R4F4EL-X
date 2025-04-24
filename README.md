@@ -5,11 +5,10 @@
 Integra memoria crítica, emociones, aprendizaje adaptativo, lenguaje natural infantil y búsqueda en internet.
 
 Esta versión incluye:
-- Interfaz web con [Streamlit](https://streamlit.io/)
-- Lenguaje generativo (Mistral 7B - Hugging Face)
+- Interfaz web con Streamlit
+- Lenguaje generativo (`google/flan-t5-large`)
 - Búsqueda web con DuckDuckGo
 - Módulo de aprendizaje en tiempo real con memoria evolutiva
-- Simulación de juicio crítico y recuerdos emocionales
 
 ## Cómo usar
 
